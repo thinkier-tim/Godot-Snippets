@@ -1,2 +1,2 @@
 # Godot Snippets
- pieces of code that do little things
+ pieces of GDScript that do little things
