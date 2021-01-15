@@ -1,3 +1,3 @@
 # Godot Snippets
- [Godot Icon](https://github.com/thinkier-tim/Godot-Snippets/godot_icon.png)
+ [Godot Icon](https://github.com/thinkier-tim/Godot-Snippets/blob/main/godot_icon.png)
  pieces of GDScript that do little things
