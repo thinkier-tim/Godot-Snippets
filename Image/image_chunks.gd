@@ -1,5 +1,5 @@
 extends Node2D
-class_name WaveFunctionCollapse2D
+class_name ImageManipulation
 
 func __summary():
 	var _descriptive_text ="""
